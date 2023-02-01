@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.17fa0545.css",
+    "main.js": "/my-portfolio/static/js/main.e2ddcda2.js",
+    "static/media/1.png": "/my-portfolio/static/media/1.9741230b4b4fe8213efa.png",
+    "static/media/Ubuntu-Regular.ttf": "/my-portfolio/static/media/Ubuntu-Regular.1cbb1b79a23478cc89ad.ttf",
+    "static/media/Ubuntu-Medium.ttf": "/my-portfolio/static/media/Ubuntu-Medium.e37c5546eb1a6efc4818.ttf",
+    "static/media/Ubuntu-Bold.ttf": "/my-portfolio/static/media/Ubuntu-Bold.fec2d0f1431a6114a6ce.ttf",
+    "static/media/profile.jpg": "/my-portfolio/static/media/profile.e69af7160f1cc73cb250.jpg",
+    "static/media/2.webp": "/my-portfolio/static/media/2.f9561efff3bd3330d3b9.webp",
+    "index.html": "/my-portfolio/index.html",
+    "main.17fa0545.css.map": "/my-portfolio/static/css/main.17fa0545.css.map",
+    "main.e2ddcda2.js.map": "/my-portfolio/static/js/main.e2ddcda2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17fa0545.css",
+    "static/js/main.e2ddcda2.js"
+  ]
+}
