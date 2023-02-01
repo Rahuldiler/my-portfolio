@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "Ubuntu-Regular";
+    src: local("Ubuntu-Regular"),
+        url("../Fonts/Ubuntu-Regular.ttf") format("truetype");
+    font-weight: regular;
+}
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Ubuntu-Regular";
+    box-sizing: border-box;
+    text-decoration: none;
+    scroll-behavior: smooth;
+}
